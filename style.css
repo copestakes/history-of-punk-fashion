@@ -269,7 +269,6 @@ nav li:hover {
     text-align:center;
     position:relative;
     overflow:hidden;
-    transition-property:transform:scale;
     transition-duration:.4s;
     filter:drop-shadow(8px 8px 12px rgba(0,0,0,.3));
 }
